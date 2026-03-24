@@ -8,5 +8,5 @@ A private bidding console application where multiple users can enter their names
 
 ## How to Run 🚀
 1. Copy the code
-2. Run `main.py`
+2. Run `main.py` in your IDE/Terminal
 3. Bid and see who wins
