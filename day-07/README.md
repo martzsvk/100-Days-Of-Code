@@ -11,7 +11,7 @@ This is a classic Hangman game where you have to guess a secret word letter by l
 
 ### How to Play 🚀
 1. Copy the code
-2. Run `main.py` on your terminal
+2. Run `main.py` on your IDE/Terminal
 3. Type a letter and **Enter**
 4. Enjoy & don't let the man die 
 
