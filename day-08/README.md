@@ -7,8 +7,8 @@ A Python console application that encrypts and decrypts text using the classic C
 * **List Index:** Learned to find the position of an item in a list using `.index()` and using that index to calculate a new shifted position.
 
 ## How to Run 🚀
-1. Copy the code into your IDE
-2. Run `main.py`
+1. Copy the code
+2. Run `main.py` in your IDE/Terminal
 3. Choose to `encode` or `decode`
 4. Type your message and shift number
 5. Don't let anyone to know your secrets
