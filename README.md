@@ -20,6 +20,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 07 | **Hangman Game** | While & For Loops, ASCII Art | [Code here](./day-07/) |
 | 08 | **Caesar Cipher** | Functions with Parameters & Input Validation | [Code here](./day-08/) |
 | 09 | **Secret Auction** | Dictionaries & Nesting | [Code here](./day-09/) |
+| 10 | **Calculator** | Functions with Outputs | [Code here](./day-10/) |
 
 </details>
 
@@ -36,7 +37,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-9%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-10%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-24.3.26-orange?style=for-the-badge)<br/>
 
