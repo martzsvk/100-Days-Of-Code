@@ -8,6 +8,6 @@ A 2-player version of the legendary arcade game Pong. This project focuses on ma
 * **Dynamic Difficulty:** Increasing the ball's speed every time it hits a paddle to make the game more challenging over time.
 
 ## Controls
-* Player 1 (Left): W and S keys
-* Player 2 (Right): Up and Down arrows
+* Player 1 (Left): `W` and `S` keys
+* Player 2 (Right): `Up` and `Down` arrows
 * You need to end the game manually or it will go into eternity :D
