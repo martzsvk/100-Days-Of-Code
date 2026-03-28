@@ -24,7 +24,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 11 | **Blackjack** | Revison of everything I learned so far | [Code here](./day-11/) |
 | 12 | **Number Guessing Game** | Implementing difficulties & Scope | [Code here](./day-12/) |
 | 13 | **Debugging** | Finding & Fixing Errors | [Code here](./day-13/) |
-| 14 | **Higher Lower Game** | Project using dictionaries & Lists | [Code here](./day-14/) |
+| 14 | **Higher Lower Game** | Project using Dictionaries & Lists | [Code here](./day-14/) |
 
 </details>
 
@@ -47,6 +47,15 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 28 | **Pomodoro App** | Tkinter & GUI | [Code here](./day-28/) |
 | 29 | **Password Manager App** | Tkinter Canvas & Timer Logic | [Code here](./day-29/) |
 | 30 | **Upgrading Password Manager** | JSON Data & Exception Handling | [Code here](./day-30/) |
+| 31 | **Flash Card App** | Capstone Project: UI & Logic | [Code here](./day-31/) |
+
+</details>
+
+<details>
+<summary><b>🟠 Intermediate + days (32-58)</b></summary>
+ 
+| Day | Name of the project | Theme | Link |
+| :--: | :--: | :--: | :--: |
 
 </details>
 
@@ -73,7 +82,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-30%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-32%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-28.3.26-orange?style=for-the-badge)<br/>
 
