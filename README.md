@@ -45,7 +45,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 26 | **NATO Alphabet** | List Comprehension | [Code here](./day-26/) |
 | 27 | **Mile to Kilometers Converter** | Tkinter & GUI | [Code here](./day-27/) |
 | 28 | **Pomodoro App** | Tkinter & GUI | [Code here](./day-28/) |
-| 29 | **Password Manager App** | Tkinter & GUI | [Code here](./day-29/) |
+| 29 | **Password Manager App** | Tkinter Canvas & Timer Logic | [Code here](./day-29/) |
 | 30 | **Upgrading Password Manager** | JSON Data & Exception Handling | [Code here](./day-30/) |
 
 </details>
@@ -61,8 +61,12 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
     * `math`
     * `turtle`
     * `time`
+    * `tkinter`
+    * `json`
   * **External Libraries:**
     * `colorgram`
+    * `pandas`
+    * `pyperclip`
 
 ---
 
