@@ -35,6 +35,8 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | :--: | :--: | :--: | :--: |
 | 15/16 | **Coffee Machine** | Object Oriented Programming (OOP) | [Code here](./day-15/) |
 | 17 | **Quiz** | Creating Classes & using `__init__` Method | [Code here](./day-17/) |
+| 18 | **Hirst Painting** | Turtle & Graphics | [Code here](./day-18/) |
+| 19 | **Turtle's Race** | Instances & Event Listeners | [Code here](./day-19/) |
 
 </details>
 
@@ -44,15 +46,19 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 * **Environment:**
   * PyCharm / VS Code
 * **Modules & Libraries:**
-  * `random` (Standard Library)
-  * `math` (Standard Library)
+  * **Standard Libraries:**
+    * `random`
+    * `math`
+    * `turtle`
+  * **External Libraries:**
+    * `colorgram`
 
 ---
 
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-17%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-19%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-28.3.26-orange?style=for-the-badge)<br/>
 
