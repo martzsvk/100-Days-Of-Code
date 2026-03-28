@@ -8,7 +8,7 @@ The classic arcade game built using Python's `turtle` module. This project was a
 * **Data Persistence:** Learning how to keep track of the High Score even after the program restarts.
 
 ## Controls
-* W / A / S / D - to control the snake
+* `W` / `A` / `S` / `D` - to control the snake
 * Collect the food to grow longer and increase your score
 * Game Over if you hit the wall or yourself (The high score will be updated if you beat it)
 
