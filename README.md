@@ -37,6 +37,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 17 | **Quiz** | Creating Classes & using `__init__` Method | [Code here](./day-17/) |
 | 18 | **Hirst Painting** | Turtle & Graphics | [Code here](./day-18/) |
 | 19 | **Turtle's Race** | Instances & Event Listeners | [Code here](./day-19/) |
+| 20/21 | **Snake Game** | List Slicing & Class Inheritance | [Code here](./day-20/) |
 
 </details>
 
@@ -50,6 +51,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
     * `random`
     * `math`
     * `turtle`
+    * `time`
   * **External Libraries:**
     * `colorgram`
 
@@ -58,7 +60,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-19%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-21%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-28.3.26-orange?style=for-the-badge)<br/>
 
