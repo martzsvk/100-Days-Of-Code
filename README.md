@@ -22,6 +22,18 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 09 | **Secret Auction** | Dictionaries & Nesting | [Code here](./day-09/) |
 | 10 | **Calculator** | Functions with Outputs | [Code here](./day-10/) |
 | 11 | **Blackjack** | Revison of everything I learned so far | [Code here](./day-11/) |
+| 12 | **Number Guessing Game** | Implementing difficulties & Scope | [Code here](./day-12/) |
+| 13 | **Debugging** | Finding & Fixing Errors | [Code here](./day-13/) |
+| 14 | **Higher Lower Game** | Project using dictionaries & Lists | [Code here](./day-14/) |
+
+</details>
+
+<details>
+<summary><b>🟡 Intermediate days (15-31)</b></summary>
+
+| Day | Name of the project | Theme | Link |
+| :--: | :--: | :--: | :--: |
+| 15/16 | **Coffee Machine** | Object Oriented Programming (OOP) | [Code here](./day-15/) |
 
 </details>
 
@@ -31,14 +43,15 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 * **Environment:**
   * PyCharm / VS Code
 * **Modules & Libraries:**
-  * `random` (Standard Library) 
+  * `random` (Standard Library)
+  * `math` (Standard Library)
 
 ---
 
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-11%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-16%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-28.3.26-orange?style=for-the-badge)<br/>
 
