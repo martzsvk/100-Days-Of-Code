@@ -64,39 +64,37 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 37 | **Habit Tracker** | API Post Requests & Headers | [Code here](./day-37/) |
 | 38 | **Workout Tracking** | Google Sheets | [Code here](./day-38/) |
 | 39/40 | **Flight Deal Finder** | Capstone Project: API's & OOP | [Code here](./day-39/) |
+| 41 | **Movie Ranking Website** | Introduction to HTML | [Code here](./day-41/) |
+| 42 | **Birthday Invite Website** | Intermediate HTML | [Code here](./day-42/) |
+| 43 | **Color Vocab Website** | Introductino to CSS | [Code here](./day-43/) |
+| 44 | **Motivational Website** | Intermediate CSS | [Code here](./day-44/) |
 
 </details>
 
 ## Tech Used 🛠️
-* **Language:**
-  * Newest Python (Python 3.14.3)
+* **Languages:**
+  * Python 3.14+
+  * HTML5 & CSS3
 * **Environment:**
-  * PyCharm / VS Code
+  * PyCharm / VS Code / Git
 * **Modules & Libraries:**
   * **Standard Libraries:**
-    * `random`
-    * `math`
-    * `turtle`
-    * `time`
-    * `tkinter`
-    * `json`
-    * `smtplib`
-    * `datetime`
-    * `os`
+    * `random`, `math`, `time`, `os`, `json`
+    * `turtle`, `tkinter` (GUI Development)
+    * `smtplib`, `datetime` (Automation)
   * **External Libraries:**
-    * `colorgram`
-    * `pandas`
-    * `pyperclip`
-    * `requests`
-    * `python-dotenv`
-    * `twilio`
+    * `colorgram`, `pyperclip`
+    * `pandas` (Data Analysis)
+    * `requests` (API Interactions)
+    * `python-dotenv` (Security & Enviromental Variables)
+    * `twilio` (SMS Communications)
 
 ---
 
 ## Project Stats 📊
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
 
-![Progress](https://img.shields.io/badge/Progress-39%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-44%20%2F%20100-green?style=for-the-badge)<br/>
 
 ![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)<br/>
 
