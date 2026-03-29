@@ -16,7 +16,7 @@ This section marks my transition from pure Python logic to Frontend Development.
 
 | Day | Project Name | Key Features | Preview |
 | :--: | :--: | :--: | :--: |
-| 41 | Movie Ranking | HTML lists, headings, and structure | [🎬](../day-29/) |
-| 42 | Birthday Invite | Image handling and basic formatting | [🎂](../day-29/) |
-| 43 | Color Vocab | CSS background-colors and font styling | [🎨](../day-29/) |
-| 44 | Motivational Poster | Centering elements and border styling | [🖼️](../day-29/) |
+| 41 | Movie Ranking | HTML lists, headings, and structure | [🎬](../day-41/) |
+| 42 | Birthday Invite | Image handling and basic formatting | [🎂](../day-42/) |
+| 43 | Color Vocab | CSS background-colors and font styling | [🎨](../day-43/) |
+| 44 | Motivational Poster | Centering elements and border styling | [🖼️](../day-44/) |
