@@ -92,11 +92,13 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 ---
 
 ## Project Stats 📊
-![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)<br/>
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
+![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
+![CSS3](https://img.shields.io/badge/Language-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</br>
 
-![Progress](https://img.shields.io/badge/Progress-44%20%2F%20100-green?style=for-the-badge)<br/>
+![Progress](https://img.shields.io/badge/Progress-44%20%2F%20100-green?style=for-the-badge)</br>
 
-![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)<br/>
+![Last Commit](https://img.shields.io/badge/Last_Commit-29.3.26-orange?style=for-the-badge)</br>
 
 ---
 
