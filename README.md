@@ -63,7 +63,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 36 | **Stock Trading News Alert** | Multiple API's | [Code here](./day-36/) |
 | 37 | **Habit Tracker** | API Post Requests & Headers | [Code here](./day-37/) |
 | 38 | **Workout Tracking** | Google Sheets | [Code here](./day-38/) |
-| 39 | **Flight Deal Finder** | Capstone Project: API's & OOP | [Code here](./day-39/) |
+| 39/40 | **Flight Deal Finder** | Capstone Project: API's & OOP | [Code here](./day-39/) |
 
 </details>
 
