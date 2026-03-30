@@ -73,7 +73,7 @@ Welcome to my journey through the **100 Days of Code** by Angela Yu. This reposi
 | 47 | **Scraping Amazon Website** | Beauftiful Soup with Real Website | [Code here](./day-47/) |
 | 48 | **Cookie Clicker Bot** | Selenium Webdriver Browser | [Code here](./day-48/) |
 | 49-53 | *Skipped* | Web Automation Projects | [Note below](#notes) |
-| 54 | **Flask Server** | Introductino to Flask | [Code here](./day-54/) |
+| 54 | **Flask Server** | Introduction to Flask | [Code here](./day-54/) |
 
 <a name="notes"></a>
 ### Notes on Progress 📝
